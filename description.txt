@@ -1,0 +1,254 @@
+CLEANLIST - THE SIMPLE & POWERFUL SHOPPING LIST APP
+
+================================================================================
+APP SUMMARY
+================================================================================
+
+CleanList is a beautifully designed, minimalist shopping list app that makes grocery shopping effortless and organized. With its clean interface, smart features, and powerful organization tools, CleanList transforms your shopping experience into a smooth, efficient process.
+
+Perfect for individuals, families, and anyone who wants to stay organized while shopping. No accounts required, no ads, just pure functionality.
+
+================================================================================
+KEY FEATURES
+================================================================================
+
+CORE SHOPPING LIST FEATURES
+----------------------------
+• Quick Add Items
+  - Add items instantly with a single tap
+  - Smart positioning: add to top or bottom of list
+  - Quick toggle for add position without going to settings
+  - Batch add multiple items at once (comma-separated)
+  - Paste items from other apps
+
+• Item Management
+  - Check/uncheck items with a simple tap
+  - Swipe to delete individual items
+  - Edit item names inline
+  - Adjust quantities with + and - buttons
+  - See quantity badges for items (x2, x3, etc.)
+  - Long press to select multiple items for bulk actions
+
+• Smart Organization
+  - Drag and drop to reorder items
+  - Automatic move of checked items to bottom (optional)
+  - Unchecked items counter badge
+  - Visual separation between checked and unchecked items
+  - Search and filter items in long lists
+
+• Bulk Operations
+  - Select all/none with single tap
+  - Delete all checked items at once
+  - Uncheck all items to reuse lists
+  - Copy entire list to clipboard
+  - Share lists via any app
+
+SAVED LISTS & TEMPLATES
+------------------------
+• Save frequently used lists as templates
+• Create custom list categories (Weekly Shopping, Party Supplies, etc.)
+• Load saved lists instantly
+• Merge saved lists with current items or replace completely
+• Edit and update saved templates
+• Reorder saved lists for quick access
+• Swipe actions for quick list management
+
+SHOPPING HISTORY & CALENDAR
+----------------------------
+• Automatic Shopping History
+  - Track when you went shopping
+  - View past shopping lists by date
+  - Calendar view with visual indicators
+  - Green dots show days with shopping activity
+  
+• Calendar Navigation
+  - Mini calendar in Saved Lists for quick access
+  - Full calendar view for detailed history
+  - Month-by-month navigation
+  - Tap any date to see that day's lists
+  
+• History Management
+  - Rename past shopping lists
+  - Reload previous lists for repeat shopping
+  - Delete individual history items
+  - Auto-delete old history (customizable days)
+  - Export history data
+
+• Premium Shopping History (In-App Purchase)
+  - View shopping history older than 10 days
+  - Unlimited history access
+  - One-time purchase, lifetime access
+  - Family Sharing supported
+
+CUSTOMIZATION & SETTINGS
+-------------------------
+• Display Options
+  - Adjustable text size (5 levels: Small to Very Very Large)
+  - Light/Dark/System theme support
+  - Clean, distraction-free interface
+  
+• Behavior Settings
+  - Choose default add position (top/bottom)
+  - Auto-move checked items to bottom
+  - Show/hide quick position toggle
+  - Configure unchecked items counter badge
+
+• Language Support
+  - Multiple languages available
+  - System language detection
+  - Manual language selection
+  - Localized for:
+    * English
+    * Spanish (Español)
+    * French (Français)
+    * German (Deutsch)
+    * Norwegian (Norsk)
+    * Swedish (Svenska)
+    * Danish (Dansk)
+
+IMPORT & SHARING
+----------------
+• URL Scheme Support
+  - Import items via cleanlist://import
+  - Accept shared lists from other apps
+  - Web integration capable
+  
+• Sharing Options
+  - Share as text via any messaging app
+  - Copy to clipboard
+  - Email lists
+  - Print shopping lists
+  
+• Data Portability
+  - Export all data
+  - Backup lists
+  - No lock-in
+
+PRIVACY & SYNC
+--------------
+• Complete Privacy
+  - No account required
+  - No personal data collection
+  - No ads or tracking
+  - All data stored locally on device
+  
+• iCloud Sync (Optional)
+  - Sync across your Apple devices
+  - Automatic backup to iCloud
+  - Seamless device switching
+  - Private and secure
+
+BACKGROUND FEATURES
+-------------------
+• Smart Notifications
+  - Daily reminder badge for unchecked items
+  - Customizable notification schedule
+  - Silent badge updates
+  - Disable anytime
+
+• Background Refresh
+  - Automatic badge updates
+  - Low battery impact
+  - Respects system settings
+
+PREMIUM FEATURES
+----------------
+• One-Time Purchase Includes:
+  - Access shopping history older than 10 days
+  - Unlimited history retention
+  - All future premium features
+  - Family Sharing support
+  - No subscriptions ever
+
+TECHNICAL FEATURES
+------------------
+• Performance
+  - Instant app launch
+  - Smooth animations
+  - Efficient memory usage
+  - Works offline
+  
+• Reliability
+  - Automatic save
+  - Data persistence
+  - Crash protection
+  - Regular updates
+
+• Accessibility
+  - VoiceOver support
+  - Dynamic Type support
+  - Keyboard shortcuts
+  - Reduced motion support
+
+================================================================================
+USE CASES
+================================================================================
+
+PERFECT FOR:
+• Grocery shopping
+• Party planning
+• Holiday shopping
+• Household supplies
+• Office supplies
+• Project materials
+• Gift lists
+• Meal planning
+• Inventory tracking
+• Todo lists
+• Packing lists
+• Event planning
+
+================================================================================
+WHAT MAKES CLEANLIST SPECIAL
+================================================================================
+
+1. TRULY SIMPLE: No complicated features, just what you need
+2. BLAZING FAST: Add items in seconds, no delays or loading
+3. PRIVACY FIRST: Your data stays on your device
+4. NO ACCOUNT NEEDED: Start using immediately
+5. NO ADS: Clean, focused experience
+6. SMART DEFAULTS: Works great out of the box
+7. POWERFUL WHEN NEEDED: Advanced features available but not intrusive
+8. BEAUTIFUL DESIGN: Clean, modern interface that's a joy to use
+9. RELIABLE: Your lists are always there when you need them
+10. AFFORDABLE: Free with optional one-time purchase for premium features
+
+================================================================================
+APP DETAILS
+================================================================================
+
+Name: CleanList (formerly BestList)
+Category: Productivity / Shopping
+Platform: iOS 15.0+
+Size: ~10MB
+Languages: 7 languages
+Price: Free with optional In-App Purchase
+IAP: One-time purchase for premium features ($4.99)
+Family Sharing: Yes
+Privacy: No data collection
+Support: http://best-shopping-list.com/
+
+================================================================================
+VERSION HISTORY HIGHLIGHTS
+================================================================================
+
+Recent Updates:
+• Shopping History Calendar
+• Saved Lists Templates
+• Mini Calendar View
+• Premium Features
+• Improved Navigation
+• Bug Fixes and Performance Improvements
+
+================================================================================
+CONTACT & SUPPORT
+================================================================================
+
+Website: http://best-shopping-list.com/
+Feedback: Available in app settings
+Privacy Policy: No data collection
+Terms: Standard Apple EULA
+
+================================================================================
+
+Copyright © 2024 CleanList. All rights reserved.
