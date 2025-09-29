@@ -1,0 +1,164 @@
+# GrocList - Complete Feature List
+
+## Core List Management
+
+### Smart Item Entry
+- **Quick Text Input**: Add items via header text field with instant focus on app launch
+- **Bottom Row Addition**: Add items directly at the end of the list via dedicated input field
+- **Multi-line Paste Support**: Paste multiple items from clipboard (comma or newline separated)
+- **Duplicate Detection**: Automatically detects existing items and offers to increase quantity instead of duplicating
+- **Smart Positioning**: Choose whether new items appear at top or bottom of list
+- **Auto-complete Prevention**: Prevents duplicate entries with intelligent matching
+
+### Advanced Item Management
+- **Quantity Control**: Increase/decrease item quantities with dedicated +/- buttons
+- **Item Completion**: Tap to check/uncheck items with visual feedback (green checkmark)
+- **Smart Ordering**: Completed items can automatically move to bottom while preserving order
+- **In-line Editing**: Swipe to edit item names directly in the list
+- **Drag & Drop Reordering**: Move items to reorganize your list (respects completed/active grouping)
+- **Swipe Actions**: Delete or edit items with intuitive swipe gestures
+
+### Visual Customization
+- **Dynamic Text Sizing**: 5 text size options from Small (12pt) to Very Very Large (60pt)
+- **Real-time Preview**: See text size changes immediately with preview text
+- **Completion Visual Feedback**: Completed items show strikethrough effect
+- **Seasonal Backgrounds**: Christmas theme and other background options with subtle opacity
+- **Theme Support**: Light, Dark, and System (automatic) color themes
+- **Clean Interface**: Minimalist design focused on readability and ease of use
+
+## Advanced List Features
+
+### Saved List Templates
+- **Template Creation**: Save current lists as reusable templates
+- **Quick Loading**: Load saved lists with confirmation dialog (replace vs. merge options)
+- **Template Management**: Edit, reorder, and delete saved list templates
+- **Detailed Template View**: View and edit individual items within saved templates
+- **Smart Loading**: Options to replace current list or merge with existing items
+
+### Import/Export Functionality
+- **Universal Sharing**: Export lists via system share sheet (text format)
+- **Clipboard Integration**: Paste items from any source (shopping apps, notes, messages)
+- **Custom URL Scheme**: Share lists between devices using cleanlist:// protocol
+- **Quantity Preservation**: Import/export maintains item quantities
+- **Format Flexibility**: Support for multiple separator formats (commas, newlines)
+
+### Smart Notifications & Reminders
+- **Intelligent Scheduling**: Automatically schedules reminders 2-30 days after last app use
+- **Dynamic Content**: Notifications show actual unchecked items from your list
+- **Badge Counter**: App icon shows count of unchecked items
+- **Background Refresh**: Updates badge count even when app is closed
+- **Permission Handling**: Seamless notification permission requests
+- **Smart Timing**: Reminders become more frequent as time passes
+
+## Shopping History & Analytics
+
+### Calendar-Based History
+- **Visual Calendar**: Full calendar view showing shopping activity by date
+- **Deleted List Recovery**: Automatically saves deleted lists with timestamps
+- **Historical Navigation**: Browse past shopping trips by date
+- **Mini Calendar Widget**: Quick access to recent history from saved lists view
+- **Auto-cleanup**: Configurable auto-deletion of old history (customizable days)
+- **Privacy Controls**: Option to disable history tracking or hide feature
+
+### List Recovery System
+- **Automatic Backup**: Every cleared/deleted list is automatically saved
+- **Date-based Organization**: View deleted lists organized by calendar date
+- **One-click Restoration**: Restore any previous list with single tap
+- **Detailed History**: See exact items and quantities from past shopping trips
+- **Bulk Management**: Clear all history or hide feature while preserving data
+
+## Premium Features & Monetization
+
+### In-App Purchase Integration
+- **StoreKit 2 Implementation**: Modern, secure purchase system
+- **Premium Unlock**: Single purchase unlocks all premium features
+- **Feature Gating**: Extended history access (beyond 10 days) requires premium
+- **Restore Purchases**: Seamless purchase restoration across devices
+- **Future-Proof**: "All future premium features" included in purchase
+- **Transparent Pricing**: Clear pricing display with App Store integration
+
+### Advanced Settings & Preferences
+
+#### Behavior Customization
+- **Add Position Control**: Toggle quick switch between top/bottom addition
+- **Completion Behavior**: Choose whether completed items move to bottom
+- **Text Size Preferences**: Persistent text size settings across app sessions
+- **Position Toggle Visibility**: Show/hide the quick add position controls
+
+#### Accessibility & Localization
+- **Multi-language Support**: Full localization system with string catalogs
+- **Language Switching**: In-app language selection (English, Norwegian, more)
+- **Restart Notifications**: Automatic alerts when language changes require restart
+- **Accessibility Focus**: Optimized for screen readers and accessibility tools
+
+#### User Engagement
+- **In-app Rating System**: 5-star rating with smart App Store review requests
+- **Feedback Integration**: Direct feedback form for improvements
+- **App Sharing**: Built-in app sharing with customized message
+- **Contact Links**: Direct links to support and terms of service
+
+## Technical Excellence
+
+### Data Synchronization
+- **CloudKit Integration**: Seamless sync across all user devices
+- **Core Data Backend**: Robust local data storage with conflict resolution
+- **Offline Capability**: Full functionality without internet connection
+- **Background Sync**: Automatic data synchronization in background
+
+### Performance & Reliability
+- **Background Tasks**: Registered for fetch, processing, and remote notifications
+- **Memory Optimization**: Efficient Core Data queries with fetch limits
+- **Animation Framework**: Smooth, responsive animations throughout the app
+- **Error Handling**: Comprehensive error handling with user-friendly messages
+
+### Privacy & Security
+- **Local Data Storage**: User data stored locally with optional cloud sync
+- **Clipboard Permissions**: Transparent clipboard access with user notification
+- **Background Processing**: Minimal battery impact with efficient background tasks
+- **No Tracking**: No user tracking or analytics beyond Apple's standard App Store metrics
+
+## User Experience Highlights
+
+### Intuitive Interface
+- **One-Hand Operation**: Optimized for single-handed mobile use
+- **Smart Keyboard**: Automatic keyboard appearance and intelligent hiding
+- **Header Collapse**: Header slides away during scrolling for more content space
+- **Focus Management**: Intelligent focus handling across multiple input fields
+
+### Error Prevention
+- **Duplicate Prevention**: Smart detection of existing items before adding
+- **Confirmation Dialogs**: Safe guards for destructive actions (delete all, clear lists)
+- **Undo Functionality**: Undo last quantity changes with visual feedback
+- **Auto-save**: Automatic saving prevents data loss
+
+### Workflow Optimization
+- **Quick Actions**: Most common actions accessible within 1-2 taps
+- **Batch Operations**: Paste multiple items, bulk quantity adjustments
+- **Context Awareness**: Interface adapts based on current state (empty list, editing mode)
+- **Seamless Transitions**: Smooth animations between all interface states
+
+## Platform Integration
+
+### iOS Ecosystem
+- **URL Scheme Support**: cleanlist:// for deep linking and sharing
+- **System Share Sheet**: Full integration with iOS sharing system
+- **Background App Refresh**: Intelligent background processing
+- **Device Compatibility**: iPhone optimized, iOS 15.6+ support
+
+### Modern iOS Features
+- **SwiftUI Interface**: Modern, native iOS interface
+- **System Fonts**: Respects user's system font preferences
+- **Dynamic Type**: Supports iOS accessibility text sizing
+- **Dark Mode**: Full dark mode support with system integration
+
+## Summary for Marketing
+
+GrocList transforms the simple grocery list into a powerful, intelligent shopping companion. With smart duplicate detection, automatic cloud sync, seasonal themes, and comprehensive history tracking, it's designed for users who want more than just a basic list app. The premium tier unlocks extended history and future features, while the free tier provides a complete, ad-free experience for everyday shopping needs.
+
+Key selling points:
+- Zero learning curve - works exactly as expected
+- Smart features that save time (duplicate detection, quantity management)
+- Beautiful, customizable interface with accessibility support
+- Rock-solid reliability with CloudKit sync
+- Privacy-focused with local data storage
+- Premium features that add real value without being essential
