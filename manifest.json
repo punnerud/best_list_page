@@ -1,6 +1,6 @@
 {
-    "name": "BestList - Simple Shopping List",
-    "short_name": "BestList",
+    "name": "GrocList - Simple Shopping List",
+    "short_name": "GrocList",
     "description": "A beautifully designed, minimalist shopping list app that makes grocery shopping effortless and organized",
     "start_url": "/",
     "display": "standalone",

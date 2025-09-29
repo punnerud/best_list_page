@@ -1,10 +1,10 @@
-CLEANLIST - THE SIMPLE & POWERFUL SHOPPING LIST APP
+GROCLIST - THE SIMPLE & POWERFUL SHOPPING LIST APP
 
 ================================================================================
 APP SUMMARY
 ================================================================================
 
-CleanList is a beautifully designed, minimalist shopping list app that makes grocery shopping effortless and organized. With its clean interface, smart features, and powerful organization tools, CleanList transforms your shopping experience into a smooth, efficient process.
+GrocList is a beautifully designed, minimalist shopping list app that makes grocery shopping effortless and organized. With its clean interface, smart features, and powerful organization tools, GrocList transforms your shopping experience into a smooth, efficient process.
 
 Perfect for individuals, families, and anyone who wants to stay organized while shopping. No accounts required, no ads, just pure functionality.
 
@@ -199,7 +199,7 @@ PERFECT FOR:
 • Event planning
 
 ================================================================================
-WHAT MAKES CLEANLIST SPECIAL
+WHAT MAKES GROCLIST SPECIAL
 ================================================================================
 
 1. TRULY SIMPLE: No complicated features, just what you need
@@ -217,7 +217,7 @@ WHAT MAKES CLEANLIST SPECIAL
 APP DETAILS
 ================================================================================
 
-Name: CleanList (formerly BestList)
+Name: GrocList (formerly BestList)
 Category: Productivity / Shopping
 Platform: iOS 15.0+
 Size: ~10MB
@@ -251,4 +251,4 @@ Terms: Standard Apple EULA
 
 ================================================================================
 
-Copyright © 2024 CleanList. All rights reserved.
+Copyright © 2024 GrocList. All rights reserved.
